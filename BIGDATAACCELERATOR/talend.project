@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_9zLFcXZJEeindtCMXRko-g" label="BigDataAccelerator" description="" language="java" technicalLabel="BIGDATAACCELERATOR" creationDate="2018-06-22T23:45:47.458+0530" author="_9zLFcnZJEeindtCMXRko-g" productVersion="Talend Big Data Platform-6.5.1.20180116_1512" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/anirbangsmi/BDA.git&quot;,&quot;login&quot;:&quot;anirban.goswami@pwc.com&quot;,&quot;passwd&quot;:&quot;XDemO+vaEU5wAQCfTdNxSA==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI"/>
+  <TalendProperties:User xmi:id="_9zLFcnZJEeindtCMXRko-g" login="anirban.goswami@pwc.com" firstName="anirban" lastName="goswami" type="DQ" additionnalData="{}"/>
+</xmi:XMI>
