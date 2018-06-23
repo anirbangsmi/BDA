@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_Fy0woXcbEeiTldzxtCjlIQ" label="BDA_Azure" description="" language="java" technicalLabel="BDA_AZURE" creationDate="2018-06-24T00:49:16.007+0530" author="_Fy0woncbEeiTldzxtCjlIQ" productVersion="Talend Big Data Platform-6.5.1.20180116_1512" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/anirbangsmi/BDA.git&quot;,&quot;login&quot;:&quot;anirbangsmi&quot;,&quot;passwd&quot;:&quot;XDemO+vaEU5wAQCfTdNxSA==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ"/>
+  <TalendProperties:User xmi:id="_Fy0woncbEeiTldzxtCjlIQ" login="anirban.goswami@pwc.com" firstName="anirban" lastName="goswami" type="DQ" additionnalData="{}"/>
+</xmi:XMI>
