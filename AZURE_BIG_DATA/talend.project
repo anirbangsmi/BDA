@@ -7,6 +7,19 @@
     <documentationStatus xmi:id="_RWnfQHhgEeiFKpSXpk1tTA" label="unchecked" code="UCK"/>
     <documentationStatus xmi:id="_RWnfQXhgEeiFKpSXpk1tTA" label="checked" code="CHK"/>
     <documentationStatus xmi:id="_RWnfQnhgEeiFKpSXpk1tTA" label="validated" code="VAL"/>
+    <ItemsRelations xmi:id="_XlYJwHhvEeisOZB24cqwcw">
+      <baseItem xmi:id="_XlYJwXhvEeisOZB24cqwcw" id="_f4Vm0HhhEeiFKpSXpk1tTA" version="0.1" type="job"/>
+      <relatedItems xmi:id="_XlYJwnhvEeisOZB24cqwcw" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_XlYJw3hvEeisOZB24cqwcw" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_XlYJxHhvEeisOZB24cqwcw" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_XlYJxXhvEeisOZB24cqwcw" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_XlYJxnhvEeisOZB24cqwcw" id="TalendStringUtil" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_XlYJx3hvEeisOZB24cqwcw" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_XlYJyHhvEeisOZB24cqwcw" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_XlYJyXhvEeisOZB24cqwcw" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_XlYJynhvEeisOZB24cqwcw" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_XlYJy3hvEeisOZB24cqwcw" id="Mathematical" version="Latest" type="routine"/>
+    </ItemsRelations>
     <migrationTask xmi:id="_RVRbcHhgEeiFKpSXpk1tTA" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_RVRbcXhgEeiFKpSXpk1tTA" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_RVRbcnhgEeiFKpSXpk1tTA" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
@@ -152,7 +165,6 @@
     <migrationTask xmi:id="_SCS5-3hgEeiFKpSXpk1tTA" id="org.talend.designer.mapper.migration.TMapSaveToEmfMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_SCS5_HhgEeiFKpSXpk1tTA" id="org.talend.designer.dbmap.migration.ELTMapSaveToEmfMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_SCS5_XhgEeiFKpSXpk1tTA" id="org.talend.designer.xmlmap.migration.TXMLMapChangeAllInOneValueMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
-    <migrationTask xmi:id="_SCS5_nhgEeiFKpSXpk1tTA" id="org.talend.repository.model.migration.FixProjectResourceLink" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_SCS5_3hgEeiFKpSXpk1tTA" id="org.talend.repository.model.migration.ResetValuetInfiniteLoop" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_SCS6AHhgEeiFKpSXpk1tTA" id="org.talend.repository.model.migration.UpgrateDatabaseTypeForSybaseConnection" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_SCS6AXhgEeiFKpSXpk1tTA" id="org.talend.repository.model.migration.RenamePasswordParaForLdapMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
@@ -356,6 +368,17 @@
     <migrationTask xmi:id="_SCS6x3hgEeiFKpSXpk1tTA" id="org.talend.repository.model.migration.MigrationTaskFortOleDbCoseConnection" breaks="6.5.1" version="6.5.1" status="noimpact"/>
     <migrationTask xmi:id="_SCS6yHhgEeiFKpSXpk1tTA" id="org.talend.repository.model.migration.ChangeJobsettingDBversionForMssqlMigrationTask" breaks="6.3.0" version="6.3.1" status="noimpact"/>
     <migrationTask xmi:id="_SCS6yXhgEeiFKpSXpk1tTA" id="org.talend.repository.model.migration.ChangeTMatchGroupOutputConnectorTask" breaks="6.4.0" version="6.4.1" status="noimpact"/>
+    <migrationTask xmi:id="_SCS5_nhgEeiFKpSXpk1tTA" id="org.talend.repository.model.migration.FixProjectResourceLink" breaks="5.1.1" version="5.1.2" status="noimpact"/>
+    <migrationTask xmi:id="_XlHEAHhvEeisOZB24cqwcw" id="org.talend.datacleansing.core.migration.UpdateTMultiPatternCheckTask" breaks="5.6.0" version="5.6.0" status="ok"/>
+    <migrationTask xmi:id="_XlHEAXhvEeisOZB24cqwcw" id="org.talend.datacleansing.core.migration.UpdateTmatchGroupQualityTask" breaks="7.0.0" version="5.6.0" status="ok"/>
+    <migrationTask xmi:id="_XlHEAnhvEeisOZB24cqwcw" id="org.talend.datacleansing.core.migration.UpdateTmatchGroupMRParamTask" breaks="6.2.2" version="6.2.2" status="noimpact"/>
+    <migrationTask xmi:id="_XlHEA3hvEeisOZB24cqwcw" id="org.talend.datacleansing.core.migration.UpdatetMelissaDataAddressTask" breaks="6.3.0" version="6.3.0" status="ok"/>
+    <migrationTask xmi:id="_XlHEBHhvEeisOZB24cqwcw" id="org.talend.datacleansing.core.migration.UpdatetNaivebayseModelSparkVersionTask" breaks="6.3.0" version="6.3.0" status="noimpact"/>
+    <migrationTask xmi:id="_XlHEBXhvEeisOZB24cqwcw" id="org.talend.datacleansing.core.migration.UpdatetPredictSparkVersionTask" breaks="6.2.2" version="6.2.2" status="noimpact"/>
+    <migrationTask xmi:id="_XlHEBnhvEeisOZB24cqwcw" id="org.talend.datacleansing.core.migration.UpdateTMatchGroupOutPutSchemaTask" breaks="6.3.1" version="6.3.1" status="ok"/>
+    <migrationTask xmi:id="_XlHEB3hvEeisOZB24cqwcw" id="org.talend.datacleansing.core.migration.UpdateTPatternParamTask" breaks="6.4.0" version="6.4.0" status="ok"/>
+    <migrationTask xmi:id="_XlHECHhvEeisOZB24cqwcw" id="org.talend.datacleansing.core.migration.UpdateTMultiPatternTableParamTask" breaks="6.4.0" version="6.4.0" status="ok"/>
+    <migrationTask xmi:id="_XlHECXhvEeisOZB24cqwcw" id="org.talend.datacleansing.core.migration.UpdateTmatchGroupComputeGrpQualityParamTask" breaks="7.0.1" version="6.5.1" status="ok"/>
     <migrationTask xmi:id="_SCS6ynhgEeiFKpSXpk1tTA" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_Q0BIgnhgEeiFKpSXpk1tTA" login="anirban.goswami@pwc.com" firstName="anirban" lastName="goswami" type="DQ" additionnalData="{}"/>
