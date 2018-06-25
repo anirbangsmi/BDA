@@ -1,25 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_Q0BIgXhgEeiFKpSXpk1tTA" label="Azure_Big_Data" description="" language="java" technicalLabel="AZURE_BIG_DATA" creationDate="2018-06-25T15:30:17.547+0530" author="_Q0BIgnhgEeiFKpSXpk1tTA" productVersion="Talend Big Data Platform-6.5.1.20180116_1512" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/anirbangsmi/BDA.git&quot;,&quot;login&quot;:&quot;anirbangsmi&quot;,&quot;passwd&quot;:&quot;XDemO+vaEU5wAQCfTdNxSA==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3">
+  <TalendProperties:Project xmi:id="_Q0BIgXhgEeiFKpSXpk1tTA" label="Azure_Big_Data" description="" language="java" technicalLabel="AZURE_BIG_DATA" creationDate="2018-06-25T10:00:17.547+0000" author="_Q0BIgnhgEeiFKpSXpk1tTA" productVersion="Talend Big Data Platform-6.5.1.20180116_1512" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/anirbangsmi/BDA.git&quot;,&quot;login&quot;:&quot;anirbangsmi&quot;,&quot;passwd&quot;:&quot;XDemO+vaEU5wAQCfTdNxSA==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3">
     <technicalStatus xmi:id="_RWxQQHhgEeiFKpSXpk1tTA" label="development" code="DEV"/>
     <technicalStatus xmi:id="_RWxQQXhgEeiFKpSXpk1tTA" label="testing" code="TEST"/>
     <technicalStatus xmi:id="_RWxQQnhgEeiFKpSXpk1tTA" label="production" code="PROD"/>
     <documentationStatus xmi:id="_RWnfQHhgEeiFKpSXpk1tTA" label="unchecked" code="UCK"/>
     <documentationStatus xmi:id="_RWnfQXhgEeiFKpSXpk1tTA" label="checked" code="CHK"/>
     <documentationStatus xmi:id="_RWnfQnhgEeiFKpSXpk1tTA" label="validated" code="VAL"/>
-    <ItemsRelations xmi:id="_mNDGIHhhEeiFKpSXpk1tTA">
-      <baseItem xmi:id="_mNDGIXhhEeiFKpSXpk1tTA" id="_f4Vm0HhhEeiFKpSXpk1tTA" version="0.1" type="job"/>
-      <relatedItems xmi:id="_mNDGInhhEeiFKpSXpk1tTA" id="SQLike" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_mNDGI3hhEeiFKpSXpk1tTA" id="Numeric" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_mNDGJHhhEeiFKpSXpk1tTA" id="Relational" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_mNDGJXhhEeiFKpSXpk1tTA" id="TalendString" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_mNDGJnhhEeiFKpSXpk1tTA" id="TalendStringUtil" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_mNDGJ3hhEeiFKpSXpk1tTA" id="DataOperation" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_mNDGKHhhEeiFKpSXpk1tTA" id="StringHandling" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_mNDGKXhhEeiFKpSXpk1tTA" id="TalendDataGenerator" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_mNDGKnhhEeiFKpSXpk1tTA" id="TalendDate" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_mNDGK3hhEeiFKpSXpk1tTA" id="Mathematical" version="Latest" type="routine"/>
-    </ItemsRelations>
     <migrationTask xmi:id="_RVRbcHhgEeiFKpSXpk1tTA" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_RVRbcXhgEeiFKpSXpk1tTA" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_RVRbcnhgEeiFKpSXpk1tTA" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
