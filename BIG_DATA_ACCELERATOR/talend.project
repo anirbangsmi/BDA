@@ -129,6 +129,19 @@
       <relatedItems xmi:id="_RTaRc3wdEeiP1eOTLC71Tg" id="_C1IcMGsBEeiSN8d5IFv_5w - metadata" version="Latest" type="schema"/>
       <relatedItems xmi:id="_RTaRdHwdEeiP1eOTLC71Tg" id="_Ygi_wGsBEeiSN8d5IFv_5w - metadata" version="Latest" type="schema"/>
     </ItemsRelations>
+    <ItemsRelations xmi:id="_g67O0HyLEeiZOMpVwyklbA">
+      <baseItem xmi:id="_g67O0XyLEeiZOMpVwyklbA" id="_RCaeAHyLEeiZOMpVwyklbA" version="0.1" type="job"/>
+      <relatedItems xmi:id="_g67O0nyLEeiZOMpVwyklbA" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_g67O03yLEeiZOMpVwyklbA" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_g67O1HyLEeiZOMpVwyklbA" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_g67O1XyLEeiZOMpVwyklbA" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_g67O1nyLEeiZOMpVwyklbA" id="TalendStringUtil" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_g67O13yLEeiZOMpVwyklbA" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_g67O2HyLEeiZOMpVwyklbA" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_g67O2XyLEeiZOMpVwyklbA" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_g67O2nyLEeiZOMpVwyklbA" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_g67O23yLEeiZOMpVwyklbA" id="Mathematical" version="Latest" type="routine"/>
+    </ItemsRelations>
     <migrationTask xmi:id="_5J-XYHvIEeiYlaIx-WGZTw" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_5J-XYXvIEeiYlaIx-WGZTw" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_5J-XYnvIEeiYlaIx-WGZTw" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
