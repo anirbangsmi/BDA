@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_4P_G4H3iEeiSIv_JwFsj9g" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_4P_G4X3iEeiSIv_JwFsj9g" comment="" name="AzureHDInsightConnection_KeyAzuresUser" prompt="AzureHDInsightConnection_KeyAzuresUser?" promptNeeded="false" type="id_String" value="storage"/>
+  <contextParameter xmi:id="_4P_G4n3iEeiSIv_JwFsj9g" comment="" name="AzureHDInsightConnection_KeyAzurePassword" prompt="AzureHDInsightConnection_KeyAzurePassword?" promptNeeded="false" type="id_Password" value=""/>
+  <contextParameter xmi:id="_4P_G433iEeiSIv_JwFsj9g" comment="" name="AzureHDInsightConnection_KeyAzureContainer" prompt="AzureHDInsightConnection_KeyAzureContainer?" promptNeeded="false" type="id_String" value="clustername"/>
+  <contextParameter xmi:id="_4P_G5H3iEeiSIv_JwFsj9g" comment="" name="AzureHDInsightConnection_WebUser" prompt="AzureHDInsightConnection_WebUser?" promptNeeded="false" type="id_String" value="admin"/>
+  <contextParameter xmi:id="_4P_G5X3iEeiSIv_JwFsj9g" comment="" name="AzureHDInsightConnection_WebHostName" prompt="AzureHDInsightConnection_WebHostName?" promptNeeded="false" type="id_String" value="clustername.azurehdinsight.net"/>
+  <contextParameter xmi:id="_4P_G5n3iEeiSIv_JwFsj9g" comment="" name="AzureHDInsightConnection_HDIPassword" prompt="AzureHDInsightConnection_HDIPassword?" promptNeeded="false" type="id_Password" value="8GXAMf8pcaM91QjSP7SYuA=="/>
+  <contextParameter xmi:id="_4P_G533iEeiSIv_JwFsj9g" comment="" name="AzureHDInsightConnection_HDIUser" prompt="AzureHDInsightConnection_HDIUser?" promptNeeded="false" type="id_String" value="admin"/>
+  <contextParameter xmi:id="_4P_G6H3iEeiSIv_JwFsj9g" comment="" name="AzureHDInsightConnection_WebJobResFolder" prompt="AzureHDInsightConnection_WebJobResFolder?" promptNeeded="false" type="id_String" value="D:\hdJobResult"/>
+  <contextParameter xmi:id="_4P_G6X3iEeiSIv_JwFsj9g" comment="" name="AzureHDInsightConnection_KeyAzureDeployBlob" prompt="AzureHDInsightConnection_KeyAzureDeployBlob?" promptNeeded="false" type="id_String" value="D:\blobdir"/>
+  <contextParameter xmi:id="_4P_G6n3iEeiSIv_JwFsj9g" comment="" name="AzureHDInsightConnection_WebPort" prompt="AzureHDInsightConnection_WebPort?" promptNeeded="false" type="id_String" value="443"/>
+  <contextParameter xmi:id="_4P_G633iEeiSIv_JwFsj9g" comment="" name="AzureHDInsightConnection_KeyAzureHost" prompt="AzureHDInsightConnection_KeyAzureHost?" promptNeeded="false" type="id_String" value="storage.blob.core.windows.net"/>
+</talendfile:ContextType>
