@@ -155,6 +155,7 @@
       <relatedItems xmi:id="_yIMGan3bEeiSIv_JwFsj9g" id="TalendDate" version="Latest" type="routine"/>
       <relatedItems xmi:id="_yIMGa33bEeiSIv_JwFsj9g" id="Mathematical" version="Latest" type="routine"/>
       <relatedItems xmi:id="_yIMGbH3bEeiSIv_JwFsj9g" id="_C1IcMGsBEeiSN8d5IFv_5w - metadata" version="Latest" type="schema"/>
+      <relatedItems xmi:id="_FEMZMH3jEeiSIv_JwFsj9g" id="_4P1V4H3iEeiSIv_JwFsj9g" version="Latest" type="context"/>
     </ItemsRelations>
     <migrationTask xmi:id="_5J-XYHvIEeiYlaIx-WGZTw" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_5J-XYXvIEeiYlaIx-WGZTw" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
