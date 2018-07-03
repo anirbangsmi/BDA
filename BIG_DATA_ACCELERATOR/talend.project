@@ -359,4 +359,6 @@
     <migrationTask xmi:id="_dEXUOn66EeiX0si-wvTw5g" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_bcR60n66EeiX0si-wvTw5g" login="anirban.goswami@pwc.com" firstName="anirban" lastName="goswami" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_2-LJkH66EeiX0si-wvTw5g" login="jasjyot.singh.jaswal@pwc.com" firstName="Jasjyot" lastName="Singh" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_2-LJkX66EeiX0si-wvTw5g" login="talendadmin@pwc.com" firstName="talend" lastName="admin" type="DQ" additionnalData="{}"/>
 </xmi:XMI>
