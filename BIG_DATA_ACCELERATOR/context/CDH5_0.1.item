@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_P6gUAH6qEei-JZ-6zyN4yw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_P6gUAX6qEei-JZ-6zyN4yw" comment="" name="CDH5_ResourceManagerScheduler" prompt="CDH5_ResourceManagerScheduler?" promptNeeded="false" type="id_String" value="quickstart.cloudera:8030"/>
+  <contextParameter xmi:id="_P6gUAn6qEei-JZ-6zyN4yw" comment="" name="CDH5_NameNodeUri" prompt="CDH5_NameNodeUri?" promptNeeded="false" type="id_String" value="hdfs://quickstart.cloudera:8020"/>
+  <contextParameter xmi:id="_P6gUA36qEei-JZ-6zyN4yw" comment="" name="CDH5_ResourceManager" prompt="CDH5_ResourceManager?" promptNeeded="false" type="id_String" value="quickstart.cloudera:8032"/>
+  <contextParameter xmi:id="_P6gUBH6qEei-JZ-6zyN4yw" comment="" name="CDH5_JobHistory" prompt="CDH5_JobHistory?" promptNeeded="false" type="id_String" value="quickstart.cloudera:10020"/>
+  <contextParameter xmi:id="_P6gUBX6qEei-JZ-6zyN4yw" comment="" name="CDH5_User" prompt="CDH5_User?" promptNeeded="false" type="id_String" value="cloudera"/>
+  <contextParameter xmi:id="_P6gUBn6qEei-JZ-6zyN4yw" comment="" name="CDH5_StagingDirectory" prompt="CDH5_StagingDirectory?" promptNeeded="false" type="id_String" value="/user"/>
+</talendfile:ContextType>
