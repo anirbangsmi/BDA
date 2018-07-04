@@ -5,8 +5,8 @@
   <parameters xmi:id="_U-bmQ369EeiX0si-wvTw5g" key="CONN_PARA_KEY_WEB_HCAT_USERNAME" value="&quot;admin&quot;"/>
   <parameters xmi:id="_U-bmRH69EeiX0si-wvTw5g" key="CONN_PARA_KEY_HDI_USERNAME" value="&quot;admin&quot;"/>
   <parameters xmi:id="_U-bmRX69EeiX0si-wvTw5g" key="CONN_PARA_KEY_AZURE_HOSTNAME" value="&quot;storage.blob.core.windows.net&quot;"/>
-  <parameters xmi:id="_U-bmRn69EeiX0si-wvTw5g" key="CONN_PARA_KEY_AZURE_CONTAINER" value="&quot;pziusnus2sl3d2bd001/deploymentcontainer&quot;"/>
-  <parameters xmi:id="_U-bmR369EeiX0si-wvTw5g" key="CONN_PARA_KEY_AZURE_USERNAME" value="&quot;sshuser&quot;"/>
+  <parameters xmi:id="_U-bmRn69EeiX0si-wvTw5g" key="CONN_PARA_KEY_AZURE_CONTAINER" value="&quot;deploymentcontainer&quot;"/>
+  <parameters xmi:id="_U-bmR369EeiX0si-wvTw5g" key="CONN_PARA_KEY_AZURE_USERNAME" value="&quot;pziusnus2sl3d2bd001&quot;"/>
   <parameters xmi:id="_U-bmSH69EeiX0si-wvTw5g" key="CONN_PARA_KEY_AZURE_DEPLOY_BLOB" value="&quot;depblob&quot;"/>
   <parameters xmi:id="_U-bmSX69EeiX0si-wvTw5g" key="CONN_PARA_KEY_WEB_HCAT_JOB_RESULT_FOLDER" value="&quot;result&quot;"/>
   <parameters xmi:id="_U-bmSn69EeiX0si-wvTw5g" key="CONN_PARA_KEY_HDI_PASSWORD" value="Welcome@1234"/>
