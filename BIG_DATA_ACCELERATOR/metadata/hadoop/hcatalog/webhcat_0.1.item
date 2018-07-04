@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TalendHCatalog:HCatalogConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendHCatalog="http://www.talend.org/hcatalog" xmi:id="_ehOScX9-Eei97tj8NMX98w" name="webhcat" label="webhcat" relativeHadoopClusterId="_M_3CoH68EeiX0si-wvTw5g" hostName="hdinpoc001.azurehdinsight.net" port="443" userName="admin" password="Welcome@1234" rowSeparator="&quot;\n&quot;" fieldSeparator="&quot;,&quot;"/>
