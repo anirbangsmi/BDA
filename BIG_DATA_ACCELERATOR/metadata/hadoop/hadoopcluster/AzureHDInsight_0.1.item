@@ -3,12 +3,12 @@
   <parameters xmi:id="_U-bmQX69EeiX0si-wvTw5g" key="CONN_PARA_KEY_WEB_HCAT_HOSTNAME" value="hdinpoc001.azurehdinsight.net"/>
   <parameters xmi:id="_U-bmQn69EeiX0si-wvTw5g" key="CONN_PARA_KEY_WEB_HCAT_PORT" value="443"/>
   <parameters xmi:id="_U-bmQ369EeiX0si-wvTw5g" key="CONN_PARA_KEY_WEB_HCAT_USERNAME" value="admin"/>
-  <parameters xmi:id="_U-bmRH69EeiX0si-wvTw5g" key="CONN_PARA_KEY_HDI_USERNAME" value="sshuser"/>
+  <parameters xmi:id="_U-bmRH69EeiX0si-wvTw5g" key="CONN_PARA_KEY_HDI_USERNAME" value="admin"/>
   <parameters xmi:id="_U-bmRX69EeiX0si-wvTw5g" key="CONN_PARA_KEY_AZURE_HOSTNAME" value="storage.blob.core.windows.net"/>
   <parameters xmi:id="_U-bmRn69EeiX0si-wvTw5g" key="CONN_PARA_KEY_AZURE_CONTAINER" value="jobresult"/>
-  <parameters xmi:id="_U-bmR369EeiX0si-wvTw5g" key="CONN_PARA_KEY_AZURE_USERNAME" value="admin"/>
+  <parameters xmi:id="_U-bmR369EeiX0si-wvTw5g" key="CONN_PARA_KEY_AZURE_USERNAME" value="sshuser"/>
   <parameters xmi:id="_U-bmSH69EeiX0si-wvTw5g" key="CONN_PARA_KEY_AZURE_DEPLOY_BLOB" value="pziusnus2sl3d2bd001"/>
   <parameters xmi:id="_U-bmSX69EeiX0si-wvTw5g" key="CONN_PARA_KEY_WEB_HCAT_JOB_RESULT_FOLDER" value="jobresult"/>
   <parameters xmi:id="_U-bmSn69EeiX0si-wvTw5g" key="CONN_PARA_KEY_HDI_PASSWORD" value="Welcome@1234"/>
-  <parameters xmi:id="_U-bmS369EeiX0si-wvTw5g" key="CONN_PARA_KEY_AZURE_PASSWORD" value="L3SBGsFEtWJX2PBlOUSTyx2Al7scrfwwKNrc2IP3Fx71YWASKjLQUIeT4IUUnr59OXEOhyciY2ioQhvZYNOHKA=="/>
+  <parameters xmi:id="_U-bmS369EeiX0si-wvTw5g" key="CONN_PARA_KEY_AZURE_PASSWORD" value="Welcome@1234"/>
 </TalendHadoopCluster:HadoopClusterConnection>
