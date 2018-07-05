@@ -1,27 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_bcR60X66EeiX0si-wvTw5g" label="BIG_DATA_ACCELERATOR" description="" language="java" technicalLabel="BIG_DATA_ACCELERATOR" creationDate="2018-06-29T23:47:27.068+0530" author="_bcR60n66EeiX0si-wvTw5g" productVersion="Talend Big Data Platform-6.5.1.20180116_1512" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/anirbangsmi/BDA.git&quot;,&quot;login&quot;:&quot;anirbangsmi&quot;,&quot;passwd&quot;:&quot;XDemO+vaEU5wAQCfTdNxSA==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI">
+  <TalendProperties:Project xmi:id="_bcR60X66EeiX0si-wvTw5g" label="BIG_DATA_ACCELERATOR" description="" language="java" technicalLabel="BIG_DATA_ACCELERATOR" creationDate="2018-06-29T18:17:27.068+0000" author="_bcR60n66EeiX0si-wvTw5g" productVersion="Talend Big Data Platform-6.5.1.20180116_1512" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/anirbangsmi/BDA.git&quot;,&quot;login&quot;:&quot;anirbangsmi&quot;,&quot;passwd&quot;:&quot;XDemO+vaEU5wAQCfTdNxSA==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI">
     <technicalStatus xmi:id="_cE8dUH66EeiX0si-wvTw5g" label="development" code="DEV"/>
     <technicalStatus xmi:id="_cE8dUX66EeiX0si-wvTw5g" label="testing" code="TEST"/>
     <technicalStatus xmi:id="_cE8dUn66EeiX0si-wvTw5g" label="production" code="PROD"/>
     <documentationStatus xmi:id="_cEpiYH66EeiX0si-wvTw5g" label="unchecked" code="UCK"/>
     <documentationStatus xmi:id="_cEpiYX66EeiX0si-wvTw5g" label="checked" code="CHK"/>
     <documentationStatus xmi:id="_cEpiYn66EeiX0si-wvTw5g" label="validated" code="VAL"/>
-    <ItemsRelations xmi:id="_6E8sYH-uEeixzNpocG_dgA">
-      <baseItem xmi:id="_6E8sYX-uEeixzNpocG_dgA" id="_TDOvwH67EeiX0si-wvTw5g" version="0.1" type="job"/>
-      <relatedItems xmi:id="_6E8sYn-uEeixzNpocG_dgA" id="_M_3CoH68EeiX0si-wvTw5g" version="Latest" type="property"/>
-      <relatedItems xmi:id="_6E8sY3-uEeixzNpocG_dgA" id="SQLike" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_6E8sZH-uEeixzNpocG_dgA" id="Numeric" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_6E8sZX-uEeixzNpocG_dgA" id="Relational" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_6E8sZn-uEeixzNpocG_dgA" id="TalendString" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_6E8sZ3-uEeixzNpocG_dgA" id="TalendStringUtil" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_6E8saH-uEeixzNpocG_dgA" id="DataOperation" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_6E8saX-uEeixzNpocG_dgA" id="StringHandling" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_6E8san-uEeixzNpocG_dgA" id="TalendDataGenerator" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_6E8sa3-uEeixzNpocG_dgA" id="TalendDate" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_6E8sbH-uEeixzNpocG_dgA" id="Mathematical" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_6E8sbX-uEeixzNpocG_dgA" id="_C1IcMGsBEeiSN8d5IFv_5w - metadata" version="Latest" type="schema"/>
-    </ItemsRelations>
     <migrationTask xmi:id="_cB37MH66EeiX0si-wvTw5g" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_cB37MX66EeiX0si-wvTw5g" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_cB37Mn66EeiX0si-wvTw5g" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
