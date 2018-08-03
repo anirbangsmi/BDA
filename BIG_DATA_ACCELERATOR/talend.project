@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_bcR60X66EeiX0si-wvTw5g" label="BIG_DATA_ACCELERATOR" description="" language="java" technicalLabel="BIG_DATA_ACCELERATOR" creationDate="2018-06-29T18:17:27.068+0000" author="_bcR60n66EeiX0si-wvTw5g" productVersion="Talend Big Data Platform-6.5.1.20180116_1512" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/anirbangsmi/BDA.git&quot;,&quot;login&quot;:&quot;anirbangsmi&quot;,&quot;passwd&quot;:&quot;XDemO+vaEU5wAQCfTdNxSA==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI">
+  <TalendProperties:Project xmi:id="_bcR60X66EeiX0si-wvTw5g" label="BIG_DATA_ACCELERATOR" description="" language="java" technicalLabel="BIG_DATA_ACCELERATOR" creationDate="2018-06-29T23:47:27.068+0530" author="_bcR60n66EeiX0si-wvTw5g" productVersion="Talend Big Data Platform-6.5.1.20180116_1512" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/anirbangsmi/BDA.git&quot;,&quot;login&quot;:&quot;anirbangsmi&quot;,&quot;passwd&quot;:&quot;XDemO+vaEU5wAQCfTdNxSA==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI">
     <technicalStatus xmi:id="_cE8dUH66EeiX0si-wvTw5g" label="development" code="DEV"/>
     <technicalStatus xmi:id="_cE8dUX66EeiX0si-wvTw5g" label="testing" code="TEST"/>
     <technicalStatus xmi:id="_cE8dUn66EeiX0si-wvTw5g" label="production" code="PROD"/>
@@ -85,29 +85,6 @@
         <elementParameter xmi:id="_404tIYNvEeirwsb0df56_A" field="TECHNICAL" name="PROPERTY_TYPE_IMPLICIT_CONTEXT:REPOSITORY_PROPERTY_TYPE" value="" contextMode="false"/>
       </parameters>
     </implicitContextSettings>
-    <ItemsRelations xmi:id="_2ipgQJbZEeiL-_LDS2iafA">
-      <baseItem xmi:id="_2ipgQZbZEeiL-_LDS2iafA" id="_oxv9gIRUEeiLPeLcn5vF3g" version="0.1" type="job"/>
-      <relatedItems xmi:id="_2ipgQpbZEeiL-_LDS2iafA" id="_fF-ssGmCEeiSN8d5IFv_5w" version="Latest" type="property"/>
-      <relatedItems xmi:id="_2ipgQ5bZEeiL-_LDS2iafA" id="SQLike" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_2ipgRJbZEeiL-_LDS2iafA" id="Numeric" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_2ipgRZbZEeiL-_LDS2iafA" id="TalendString" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_2ipgRpbZEeiL-_LDS2iafA" id="DataMasking" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_2ipgR5bZEeiL-_LDS2iafA" id="DataOperation" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_2ipgSJbZEeiL-_LDS2iafA" id="DqStringHandling" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_2ipgSZbZEeiL-_LDS2iafA" id="StringHandling" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_2ipgSpbZEeiL-_LDS2iafA" id="TalendDataGenerator" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_2ipgS5bZEeiL-_LDS2iafA" id="TalendDate" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_2ipgTJbZEeiL-_LDS2iafA" id="DataQuality" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_2ipgTZbZEeiL-_LDS2iafA" id="Mathematical" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_2ipgTpbZEeiL-_LDS2iafA" id="Relational" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_2ipgT5bZEeiL-_LDS2iafA" id="DQTechnical" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_2ipgUJbZEeiL-_LDS2iafA" id="DataQualityDependencies" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_2ipgUZbZEeiL-_LDS2iafA" id="MDM" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_2ipgUpbZEeiL-_LDS2iafA" id="TalendStringUtil" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_2ipgU5bZEeiL-_LDS2iafA" id="_Lqe20GsCEeiSN8d5IFv_5w - metadata" version="Latest" type="schema"/>
-      <relatedItems xmi:id="_2iqHUJbZEeiL-_LDS2iafA" id="_C1IcMGsBEeiSN8d5IFv_5w - metadata" version="Latest" type="schema"/>
-      <relatedItems xmi:id="_2iqHUZbZEeiL-_LDS2iafA" id="_Ygi_wGsBEeiSN8d5IFv_5w - metadata" version="Latest" type="schema"/>
-    </ItemsRelations>
     <migrationTask xmi:id="_cB37MH66EeiX0si-wvTw5g" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_cB37MX66EeiX0si-wvTw5g" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_cB37Mn66EeiX0si-wvTw5g" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
