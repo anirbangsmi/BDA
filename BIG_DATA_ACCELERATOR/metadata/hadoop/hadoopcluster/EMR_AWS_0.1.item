@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TalendHadoopCluster:HadoopClusterConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendHadoopCluster="http://www.talend.org/hadoopcluster" xmi:id="_96JZUKRuEeiE7INJTI_biA" name="EMR_AWS" label="EMR_AWS" distribution="AMAZON_EMR" dfVersion="EMR_5_5_0" useYarn="true" nameNodeURI="hdfs://talend.emr:8020" jobTrackerURI="talend.emr:8032" userName="hadoop" group="" authMode="USERNAME" useSparkProperties="true" rmScheduler="talend.emr:8030" jobHistory="talend.emr:10020" stagingDirectory="/user" preloadAuthentification="true">
+  <connectionList>_9VEZgKRyEeiE7INJTI_biA</connectionList>
+</TalendHadoopCluster:HadoopClusterConnection>
