@@ -85,6 +85,20 @@
         <elementParameter xmi:id="_404tIYNvEeirwsb0df56_A" field="TECHNICAL" name="PROPERTY_TYPE_IMPLICIT_CONTEXT:REPOSITORY_PROPERTY_TYPE" value="" contextMode="false"/>
       </parameters>
     </implicitContextSettings>
+    <ItemsRelations xmi:id="_FStPUKVAEeiIBtVnypV21Q">
+      <baseItem xmi:id="_FStPUaVAEeiIBtVnypV21Q" id="_M-0k0JlrEeigQpvCmoH3TA" version="0.1" type="job"/>
+      <relatedItems xmi:id="_FStPUqVAEeiIBtVnypV21Q" id="_9VEZgKRyEeiE7INJTI_biA" version="Latest" type="property"/>
+      <relatedItems xmi:id="_FStPU6VAEeiIBtVnypV21Q" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_FStPVKVAEeiIBtVnypV21Q" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_FStPVaVAEeiIBtVnypV21Q" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_FStPVqVAEeiIBtVnypV21Q" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_FStPV6VAEeiIBtVnypV21Q" id="TalendStringUtil" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_FStPWKVAEeiIBtVnypV21Q" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_FStPWaVAEeiIBtVnypV21Q" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_FStPWqVAEeiIBtVnypV21Q" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_FStPW6VAEeiIBtVnypV21Q" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_FStPXKVAEeiIBtVnypV21Q" id="Mathematical" version="Latest" type="routine"/>
+    </ItemsRelations>
     <migrationTask xmi:id="_cB37MH66EeiX0si-wvTw5g" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_cB37MX66EeiX0si-wvTw5g" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_cB37Mn66EeiX0si-wvTw5g" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
